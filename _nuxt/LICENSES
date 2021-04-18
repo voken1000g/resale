@@ -1,35 +1,3 @@
-/*
-object-assign
-(c) Sindre Sorhus
-@license MIT
-*/
-
-/*!
-   * isobject <https://github.com/jonschlinkert/isobject>
-   *
-   * Copyright (c) 2014-2017, Jon Schlinkert.
-   * Released under the MIT License.
-   */
-
-/*!
- * The buffer module from node.js, for the browser.
- *
- * @author   Feross Aboukhadijeh <http://feross.org>
- * @license  MIT
- */
-
-/*!
- * v2.1.4-104-gc868b3a
- * 
- */
-
-/*! https://mths.be/punycode v1.4.1 by @mathias */
-
-/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
-
-//! moment.js
-
-
 /*!
   * vue-router v3.5.1
   * (c) 2021 Evan You
@@ -49,7 +17,7 @@ object-assign
  */
 
 /*!
- * vue-i18n v8.23.0 
+ * vue-i18n v8.24.3 
  * (c) 2021 kazuya kawaguchi
  * Released under the MIT License.
  */
@@ -125,6 +93,38 @@ PERFORMANCE OF THIS SOFTWARE.
  * @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>
  * @license  MIT
  */
+
+
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/*!
+   * isobject <https://github.com/jonschlinkert/isobject>
+   *
+   * Copyright (c) 2014-2017, Jon Schlinkert.
+   * Released under the MIT License.
+   */
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <http://feross.org>
+ * @license  MIT
+ */
+
+/*!
+ * v2.1.4-104-gc868b3a
+ * 
+ */
+
+/*! https://mths.be/punycode v1.4.1 by @mathias */
+
+/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+//! moment.js
 
 
 /*!
